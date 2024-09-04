@@ -7,4 +7,4 @@ print ("Their favorite holiday is" + holiday )
 #print out the day and their favorite holiday in
 # a sentence
 print ("Today is" + day + " and their favorite holiday is" + holiday)
-       
+# making a change to the file
